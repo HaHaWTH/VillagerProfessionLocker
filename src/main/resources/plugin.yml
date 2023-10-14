@@ -1,0 +1,4 @@
+name: VillagerProfessionLocker
+version: '${project.version}'
+main: io.wdsj.villagerprofessionlocker.Main
+api-version: '1.15'
